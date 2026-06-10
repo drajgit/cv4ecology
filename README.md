@@ -10,7 +10,7 @@ The following traits are analysed:
 - Right Hindwing Area (`RHW_Area`)
 - Left Hindwing Area (`LHW_Area`)
 
-## WORKFLOW 
+## Workflow
 Function multivariate_outlier executes the following
 1. Imports an ods file (structure like that of input_sheet_example) with image names and trait measurements. Each row stands for an individual
 2. Clean data
