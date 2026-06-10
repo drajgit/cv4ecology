@@ -19,5 +19,5 @@ Function multivariate_outlier executes the following
 values are flagged as 2 
 5. Perform Regression between trait pairs. Calculate the robust mean and standard deviation of 
 residuals
-6. Flag the outliers as 3
+6. Flag the residual outliers as 3
 7. Visualize the scatterplots and plot confidence ellipses (99%, 95% and 90%) on it with different flag categories color coded
