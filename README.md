@@ -1,4 +1,4 @@
-Exaplanation of cv4ecology_code-example.R
+Exaplanation of cv4ecology_code_example.R
 
 Script Objective: To calculate and visualize univariate and multivariate outliers in 
 morphometric measurements. Following traits had been measured: 
