@@ -1,4 +1,5 @@
-Exaplanation of 
+Exaplanation of cv4ecology_code-example.R
+
 Script Objective: To calculate and visualize univariate and multivariate outliers in 
 morphometric measurements. Following traits had been measured: 
 1.Body Length (BL) 
