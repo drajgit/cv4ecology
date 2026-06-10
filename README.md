@@ -10,7 +10,7 @@ morphometric measurements. Following traits had been measured:
 
 #### WORKFLOW ########
 Function multivariate outlier executes the following
-1. imports an ods file with image names and trait measurements. Each row stands for an individual
+1. imports an ods file (structure like that of input_sheet_example) with image names and trait measurements. Each row stands for an individual
 2. Clean data
 3. Calculate average FW_Area and HW_Area
 4. Calculate robust mean and standard deviation for BL, FW_Area and HW_Area. All the outlier 
